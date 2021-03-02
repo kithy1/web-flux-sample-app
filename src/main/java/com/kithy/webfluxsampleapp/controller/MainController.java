@@ -1,6 +1,7 @@
 package com.kithy.webfluxsampleapp.controller;
 
 
+import lombok.extern.slf4j.Slf4j;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -12,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.Arrays;
 import java.util.Iterator;
 import java.util.Set;
-
+@Slf4j
 @RestController
 @RequestMapping("/main")
 public class MainController {
@@ -20,7 +21,20 @@ public class MainController {
     @PostMapping
     public void read(@RequestBody String stringObject) {
         JSONObject jsonObject = new JSONObject(stringObject);
-        extractJson(jsonObject);
+        Iterator<String> keys = jsonObject.keys();
+        while (keys.hasNext()){
+            String next = keys.next();
+            log.info(next);
+            JSONObject object;
+            try{
+                object = jsonObject.getJSONObject(next);
+                log.error(object.toString());
+            } catch (JSONException e) {
+
+            }
+
+        }
+        //extractJson(jsonObject);
     }
 
     public void extractJson(JSONObject jsonObject) {
