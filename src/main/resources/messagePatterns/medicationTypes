@@ -1,0 +1,145 @@
+MSH|^~\&|SZPM||UD||20210312155121||MFN^ZDR|SUDSZPM38CE2B|P|2.3|||AL|AL|PL||PL
+MFI|0001^DRUGS^HL7|UPD|||NE
+MFE|MAD|||228^^^0001
+ZDR|228|Acard 150 mg   tabletki dojelitowe 0,15 g [x60 tabl.]|Acidum acetylsalicylicum|tabletki dojelitowe|0,15 g|||||N
+ZDP|5909991290306|60^tabl|6^ZAKŁADY FARMACEUTYCZNE POLPHARMA S.A.|0;
+MSH|^~\&|SZPM||UD||20210312155121||MFN^ZDR|SUDSZPM38CE2B|P|2.3|||AL|AL|PL||PL
+MFI|0001^DRUGS^HL7|UPD|||NE
+MFE|MUP|||228^^^0001
+ZDR|228|Acard 150 mg   tabletki dojelitowe 0,15 g [x60 tabl.]|Acidum acetylsalicylicum|tabletki dojelitowe|0,15 g|||||N
+ZDP|5909991290306|60^tabl|6^ZAKŁADY FARMACEUTYCZNE POLPHARMA S.A.|0;
+MSH|^~\&|SZPM||UD||20210312155121||MFN^ZDR|SUDSZPM38CE2B|P|2.3|||AL|AL|PL||PL
+MFI|0001^DRUGS^HL7|UPD|||NE
+MFE|MAD|||1100000^^^0001
+ZDR|1100000|Mono Witamina C 200 mg|Acidum acetylsalicylicum|tabletki|0,2 g|||||N
+ZDP|5900004074296|50^tabl|6^TEVA OPERATIONS POLAND Sp. z o.o.|0;
+MSH|^~\&|SZPM||UD||20210312155121||MFN^ZDR|SUDSZPM38CE2B|P|2.3|||AL|AL|PL||PL
+MFI|0001^DRUGS^HL7|UPD|||NE
+MFE|MAD|||1200000^^^0001
+ZDR|1200000|Acti Vita-Miner|Acti Vita-Miner|tabletki|0,5 g|||||N
+ZDP|5908275682035|60^tabl|6^Aflofarm Farmacja Polska Sp. z o.o.|0;
+MSH|^~\&|SZPM||UD||20210312155121||MFN^ZDR|SUDSZPM38CE2B|P|2.3|||AL|AL|PL||PL
+MFI|0001^DRUGS^HL7|UPD|||NE
+MFE|MUP|||228^^^0001
+ZDR|228|Acard 150 mg   tabletki dojelitowe 0,15 g [x60 tabl.]|Acidum acetylsalicylicum|tabletki dojelitowe|0,15 g|||||N
+ZDP|5909991290306|60^tabl|6^ZAKŁADY FARMACEUTYCZNE POLPHARMA S.A.|0;
+MSH|^~\&|SZPM||UD||20210312155121||MFN^ZDR|SUDSZPM38CE2B|P|2.3|||AL|AL|PL||PL
+MFI|0001^DRUGS^HL7|UPD|||NE
+MFE|MUP|||1100000^^^0001
+ZDR|1100000|Mono Witamina C 200 mg|Acidum acetylsalicylicum|tabletki|0,2 g|||||N
+ZDP|5900004074296|10^tabl|6^TEVA OPERATIONS POLAND Sp. z o.o.|0;
+MSH|^~\&|SZPM||UD||20210312155121||MFN^ZDR|SUDSZPM38CE2B|P|2.3|||AL|AL|PL||PL
+MFI|0001^DRUGS^HL7|UPD|||NE
+MFE|MUP|||1200000^^^0001
+ZDR|1200000|Acti Vita-Miner|Acti Vita-Miner|tabletki|0,5 g|||||N
+ZDP|5908275682035|10^tabl|6^Aflofarm Farmacja Polska Sp. z o.o.|0;
+MSH|^~\&|SZPM||UD||20210312155121||MFN^ZDR|SUDSZPM38CE2B|P|2.3|||AL|AL|PL||PL
+MFI|0001^DRUGS^HL7|UPD|||NE
+MFE|MAD|||1300000^^^0001
+ZDR|1300000|Nebinad 5mg|Nebivololum|tabletki|5 mg|||||N
+ZDP|5908275682035|28^tabl|6^Recordati Polska Sp. z o.o.|0;
+MSH|^~\&|SZPM||UD||20210312155121||MFN^ZDR|SUDSZPM38CE2B|P|2.3|||AL|AL|PL||PL
+MFI|0001^DRUGS^HL7|UPD|||NE
+MFE|MUP|||1300000^^^0001
+ZDR|1300000|Nebinad 5mg|Nebivololum|tabletki|5 mg|||||N
+ZDP|5909990648719|28^tabl|6^Recordati Polska Sp. z o.o.|0;
+MSH|^~\&|SZPM||UD||20210312155121||MFN^ZDR|SUDSZPM38CE2B|P|2.3|||AL|AL|PL||PL
+MFI|0001^DRUGS^HL7|UPD|||NE
+MFE|MUP|||1200000^^^0001
+ZDR|1200000|Acti Vita-Miner|Acti Vita-Miner|tabletki|0,5 g|||||N
+ZDP|5908275682035|10^tabl|6^Aflofarm Sp. z o.o.|0;
+MSH|^~\&|SZPM||UD||20210318221907||MFN^ZDR|SUDSZPM38CE3E|P|2.3|||AL|AL|PL||PL
+MFI|0001^DRUGS^HL7|UPD|||NE
+MFE|MAD|||1395^^^0001
+ZDR|1395|Acesan   tabletki 0,03 g [x63 tabl.]|Acidum acetylsalicylicum|tabletki|0,03 g|||||N
+ZDP|5909991190507|30^tabl|279^MIBE GMBH ARZNEIMITTEL|0;
+MSH|^~\&|SZPM||UD||20210318222212||MFN^ZDR|SUDSZPM38CE3F|P|2.3|||AL|AL|PL||PL
+MFI|0001^DRUGS^HL7|UPD|||NE
+MFE|MAD|||224^^^0001
+ZDR|224|Acard   tabletki dojelitowe 0,075 g [x60 tabl. (2 blist.po 30 szt.)]|Acidum acetylsalicylicum|tabletki dojelitowe|0,075 g|||||N
+ZDP|5909990672523|60^tabl|6^ZAKŁADY FARMACEUTYCZNE POLPHARMA S.A.|0;
+MSH|^~\&|SZPM||UD||20210318222522||MFN^ZDR|SUDSZPM38CE40|P|2.3|||AL|AL|PL||PL
+MFI|0001^DRUGS^HL7|UPD|||NE
+MFE|MAD|||3713^^^0001
+ZDR|3713|ACC   tabletki 0,2 g [x20 tabl.]|Acetylcysteinum|tabletki|0,2 g|||||N
+ZDP|5909990922611|20^tabl|9^SALUTAS PHARMA GMBH|0;
+MSH|^~\&|SZPM||UD||20210318222632||MFN^ZDR|SUDSZPM38CE41|P|2.3|||AL|AL|PL||PL
+MFI|0001^DRUGS^HL7|UPD|||NE
+MFE|MAD|||2444^^^0001
+ZDR|2444|Acespargin   tabletki 0,046 g K+ [x30 tabl.]|Kalii N-acetylhydroaspartate|tabletki|0,046 g K+|||||N
+ZDP|5909990210510|30^tabl|116^FARMACEUTYCZNA SPÓŁDZIELNIA PRACY FILOFARM|0;
+MSH|^~\&|SZPM||UD||20210318222757||MFN^ZDR|SUDSZPM38CE42|P|2.3|||AL|AL|PL||PL
+MFI|0001^DRUGS^HL7|UPD|||NE
+MFE|MAD|||4095^^^0001
+ZDR|4095|Abcixirel   iniekcja 2 mg/ml [x1 fiol. a 5ml]|Abciximabum|iniekcja|2 mg/ml|||||N
+ZDP|8904058102339|1^fiol|682^Reliance Life Sciences PVT. LTD.|0;
+MSH|^~\&|SZPM||UD||20210318223217||MFN^ZDR|SUDSZPM38CE43|P|2.3|||AL|AL|PL||PL
+MFI|0001^DRUGS^HL7|UPD|||NE
+MFE|MAD|||1024^^^0001
+ZDR|1024|Abilify   tabletki 0,015 g [x14 tabl. (blistry)]|Aripiprazolum|tabletki|0,015 g|||||N
+ZDP|5909990002290|14^tabl|10^BRISTOL MYERS SQUIBB S.R.L.|0;
+MSH|^~\&|SZPM||UD||20210318223342||MFN^ZDR|SUDSZPM38CE44|P|2.3|||AL|AL|PL||PL
+MFI|0001^DRUGS^HL7|UPD|||NE
+MFE|MAD|||4591^^^0001
+ZDR|4591|Absenor   tabletki o przedłużonym uwalnianiu 0,5 g [x100 tabl. (butelka)]|Natrii valproas|tabletki o przedłużonym uwalnianiu|0,5 g|||||N
+ZDP|5909990042364|100^tabl|11^ORION CORPORATION|0;
+MSH|^~\&|SZPM||UD||20210318224547||MFN^ZDR|SUDSZPM38CE45|P|2.3|||AL|AL|PL||PL
+MFI|0001^DRUGS^HL7|UPD|||NE
+MFE|MAD|||1187^^^0001
+ZDR|1187|Acitren   kapsułki twarde 0,025 g [x100 kaps.]|Acitretinum|kapsułki twarde|0,025 g|||||N
+ZDP|5909990907786|100^kaps|279^MIBE GMBH ARZNEIMITTEL|0;
+MSH|^~\&|SZPM||UD||20210318224637||MFN^ZDR|SUDSZPM38CE46|P|2.3|||AL|AL|PL||PL
+MFI|0001^DRUGS^HL7|UPD|||NE
+MFE|MAD|||1186^^^0001
+ZDR|1186|Acitren   kapsułki twarde 0,01 g [x100 kaps.]|Acitretinum|kapsułki twarde|0,01 g|||||N
+ZDP|5909990907755|100^kaps|279^MIBE GMBH ARZNEIMITTEL|0;
+MSH|^~\&|SZPM||UD||20210318224737||MFN^ZDR|SUDSZPM38CE47|P|2.3|||AL|AL|PL||PL
+MFI|0001^DRUGS^HL7|UPD|||NE
+MFE|MAD|||2653^^^0001
+ZDR|2653|Accofil   roztwór do wstrzykiwań i infuzji 48 mln.j.m./0,5ml [x1 amp.-strz.a 0,5ml (+1 wac.z alkoh.)]|Filgrastimum|roztwór do wstrzykiwań i infuzji|48 mln.j.m./0,5ml|||||N
+ZDP|5055565713853|1^op|224^ACCORD HEALTHCARE LTD|0;
+MSH|^~\&|SZPM||UD||20210318224907||MFN^ZDR|SUDSZPM38CE48|P|2.3|||AL|AL|PL||PL
+MFI|0001^DRUGS^HL7|UPD|||NE
+MFE|MAD|||3286^^^0001
+ZDR|3286|Accofil   roztwór do wstrzykiwań i infuzji 48 mln.j.m./0,5ml [x5 amp.-strz.a 0,5ml (+5 wac.z alkoh.)]|Filgrastimum|roztwór do wstrzykiwań i infuzji|48 mln.j.m./0,5ml|||||N
+ZDP|5055565713877|5^amp-strz|224^ACCORD HEALTHCARE LTD|0;
+MSH|^~\&|SZPM||UD||20210318225002||MFN^ZDR|SUDSZPM38CE49|P|2.3|||AL|AL|PL||PL
+MFI|0001^DRUGS^HL7|UPD|||NE
+MFE|MAD|||3242^^^0001
+ZDR|3242|ACC optima   tabletki musujące 0,6 g [x10 tabl. (tuba)]|Acetylcysteinum|tabletki musujące|0,6 g|||||N
+ZDP|5909990691012|10^tabl|8^SANDOZ GMBH|0;
+MSH|^~\&|SZPM||UD||20210318225117||MFN^ZDR|SUDSZPM38CE4A|P|2.3|||AL|AL|PL||PL
+MFI|0001^DRUGS^HL7|UPD|||NE
+MFE|MAD|||1122^^^0001
+ZDR|1122|ACC optima   tabletki musujące 0,6 g [x10 tabl. (tuba)]|Acetylcysteinum|tabletki musujące|0,6 g|||||N
+ZDP|5909997075495|10^tabl|267^HEXAL PHARMA GMBH|0;
+MSH|^~\&|SZPM||UD||20210318225232||MFN^ZDR|SUDSZPM38CE4B|P|2.3|||AL|AL|PL||PL
+MFI|0001^DRUGS^HL7|UPD|||NE
+MFE|MAD|||2970^^^0001
+ZDR|2970|ACC   tabletki musujące 0,2 g [x20 tabl.]|Acetylcysteinum|tabletki musujące|0,2 g|||||N
+ZDP|5909997232492|20^tabl|265^HEXAL AG|0;
+MSH|^~\&|SZPM||UD||20210318225322||MFN^ZDR|SUDSZPM38CE4C|P|2.3|||AL|AL|PL||PL
+MFI|0001^DRUGS^HL7|UPD|||NE
+MFE|MAD|||3241^^^0001
+ZDR|3241|ACC   tabletki musujące 0,2 g [x20 tabl.]|Acetylcysteinum|tabletki musujące|0,2 g|||||N
+ZDP|5909990990610|20^tabl|9^SALUTAS PHARMA GMBH|0;
+MSH|^~\&|SZPM||UD||20210318225322||MFN^ZDR|SUDSZPM38CE4C|P|2.3|||AL|AL|PL||PL
+MFI|0001^DRUGS^HL7|UPD|||NE
+MFE|MAD|||3241^^^0001
+ZDR|3241|ACC   tabletki musujące 0,2 g [x20 tabl.]|Acetylcysteinum|tabletki musujące|0,2 g|||||N
+ZDP|5909990990610|20^tabl|9^SALUTAS PHARMA GMBH|0;
+MSH|^~\&|SZPM||UD||20210312155121||MFN^ZDR|SUDSZPM38CE2B|P|2.3|||AL|AL|PL||PL
+MFI|0001^DRUGS^HL7|UPD|||NE
+MFE|MUP|||228^^^0001
+ZDR|228|Acard 150 mg   tabletki dojelitowe 0,15 g [x60 tabl.]|Acidum acetylsalicylicum|tabletki dojelitowe|0,15 g|||||N
+ZDP|5909991290306|60^tabl|6^ZAKŁADY FARMACEUTYCZNE POLPHARMA S.A.|0;
+MSH|^~\&|SZPM||UD||20210312155121||MFN^ZDR|SUDSZPM38CE2B|P|2.3|||AL|AL|PL||PL
+MFI|0001^DRUGS^HL7|UPD|||NE
+MFE|MAD|||228^^^0001
+ZDR|228|Acard 150 mg   tabletki dojelitowe 0,15 g [x60 tabl.]|Acidum acetylsalicylicum|tabletki dojelitowe|0,15 g|||||N
+ZDP|5909991290306|60^tabl|6^ZAKŁADY FARMACEUTYCZNE POLPHARMA S.A.|0;
+MSH|^~\&|SZPM||UD||20210312155121||MFN^ZDR|SUDSZPM38CE2B|P|2.3|||AL|AL|PL||PL
+MFI|0001^DRUGS^HL7|UPD|||NE
+MFE|MUP|||228^^^0001
+ZDR|228|Acard 150 mg   tabletki dojelitowe 0,15 g [x60 tabl.]|Acidum acetylsalicylicum|tabletki dojelitowe|0,15 g|||||N
+ZDP|5909991290306|60^tabl|6^ZAKŁADY FARMACEUTYCZNE POLPHARMA S.A.|0;

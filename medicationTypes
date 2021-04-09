@@ -1,0 +1,15 @@
+MSH|^~\&|SZPM||UD||20210312155121||MFN^ZDR|SUDSZPM38CE2B|P|2.3|||AL|AL|PL||PL
+MFI|0001^DRUGS^HL7|UPD|||NE
+MFE|MAD|||228^^^0001
+ZDR|228|Acard 150 mg   tabletki dojelitowe 0,15 g [x60 tabl.]|Acidum acetylsalicylicum|tabletki dojelitowe|0,15 g|||||N
+ZDP|5909991290306|60^tabl|6^ZAK�ADY FARMACEUTYCZNE POLPHARMA S.A.|0;
+MSH|^~\&|SZPM||UD||20210312163634||MFN^ZDR|SUDSZPM38CE31|P|2.3|||AL|AL|PL||PL
+MFI|0001^DRUGS^HL7|UPD|||NE
+MFE|MAD|||180^^^0001
+ZDR|180|Apap   tabletki powlekane 0,5 g [x100 tabl. (butelka)]|Paracetamolum|tabletki powlekane|0,5 g|||||N
+ZDP|5909990664559|100^tabl|45^US PHARMACIA SP. Z O.O.|0;
+MSH|^~\&|SZPM||UD||20210312163759||MFN^ZDR|SUDSZPM38CE32|P|2.3|||AL|AL|PL||PL
+MFI|0001^DRUGS^HL7|UPD|||NE
+MFE|MAD|||1184^^^0001
+ZDR|1184|Aethylum chloratum filofarm   aerozol - [x70 g]|Ethylis chloridum|aerozol|-|||||N
+ZDP|5909990210619|70^g|116^FARMACEUTYCZNA SPÓŁDZIELNIA PRACY FILOFARM|0
