@@ -9,6 +9,7 @@ import java.io.IOException;
 import java.net.URL;
 import java.nio.file.Files;
 import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.Arrays;
 import java.util.stream.Stream;
 
@@ -18,12 +19,9 @@ public class FileReaderUtils {
     ResourceLoader resourceLoader;
 
 
-    public Stream<String> readFile() throws IOException {
+    public Stream<String> readFile(String path) throws IOException {
 
-        Resource resource = loadEmployeesWithResourceLoader();
-        URL url = resource.getURL();
-
-        String content = new String(Files.readAllBytes(Path.of(String.valueOf(url))));
+        String content = new String(Files.readAllBytes(Paths.get(path)));
         String[] split = content.split(";");
         for (String s : split) {
             System.out.println(s);
@@ -33,13 +31,10 @@ public class FileReaderUtils {
 
     public static void main(String[] args) throws IOException {
         FileReaderUtils fru = new FileReaderUtils();
-        fru.readFile();
+        fru.readFile("src/main/resources/messagePatterns/deliveryPattern");
     }
 
-    public Resource loadEmployeesWithResourceLoader() {
-        return resourceLoader.getResource(
-                "classpath:messagePatterns/employees.dat");
-    }
+
 
 
 }
