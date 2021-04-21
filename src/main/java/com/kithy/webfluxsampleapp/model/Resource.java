@@ -1,12 +1,6 @@
 package com.kithy.webfluxsampleapp.model;
 
-import lombok.AccessLevel;
-import lombok.AllArgsConstructor;
-import lombok.NoArgsConstructor;
-import lombok.ToString;
 import org.springframework.data.mongodb.core.mapping.Document;
-
-import java.io.Serializable;
 
 @Document
 public class Resource {
