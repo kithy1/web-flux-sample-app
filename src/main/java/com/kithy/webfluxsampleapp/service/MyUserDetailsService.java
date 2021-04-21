@@ -10,6 +10,10 @@ import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
+
+import javax.servlet.Filter;
+
+
 @Slf4j
 @Service
 public class MyUserDetailsService implements UserDetailsService {
@@ -26,6 +30,7 @@ public class MyUserDetailsService implements UserDetailsService {
         Mono<User> userMono = all.all(user -> user.getUsername().equals(username)).cast(User.class);
         User user = userMono.block();
         log.debug("loaded user: {}", user);
+
 
         if(user == null) {
             throw new UsernameNotFoundException(username);

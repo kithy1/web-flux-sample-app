@@ -25,14 +25,17 @@ public class UserInitialization implements ApplicationListener<ApplicationReadyE
     }
 
     private void prepareAndSaveUsers() {
-        User saved;
         User user1 = new User();
         user1.setUsername("user1");
         user1.setPassword("password1");
 
+        User user2 = new User();
+        user2.setUsername("user2");
+        user2.setPassword("password2");
+
         userRepository.deleteAll()
                 .thenMany(
-                        Flux.just(user1)
+                        Flux.just(user1, user2)
                 ).flatMap(userRepository::save)
                 .thenMany(userRepository.findAll())
                 .subscribe(System.out::println);
